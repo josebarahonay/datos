@@ -20,3 +20,5 @@ else:
 
 # eliminar un directorio
 #os.rmdir('micarpeta')
+
+print("otra modificacion")
